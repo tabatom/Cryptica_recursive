@@ -1,0 +1,1 @@
+./Cryptica_recursive.exe input "AJAW_01" moves 7
